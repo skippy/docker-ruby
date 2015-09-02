@@ -1,7 +1,7 @@
 # heavily based upon
 #  - https://registry.hub.docker.com/u/centurylink/ruby-base/
 #  - https://registry.hub.docker.com/u/atlashealth/ruby
-FROM debian:jessie
+FROM debian:8.1
 
 MAINTAINER Adam Greene <adam.greene@gmail.com>
 
